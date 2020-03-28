@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		BAE1FCCB2426A8A4009EB73D /* READMEmd.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = READMEmd.md; sourceTree = "<group>"; };
+		BAE1FCCB2426A8A4009EB73D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BAE1FCCD2426A8DF009EB73D /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -15,7 +15,7 @@
 		BAE1FCC42426A818009EB73D = {
 			isa = PBXGroup;
 			children = (
-				BAE1FCCB2426A8A4009EB73D /* READMEmd.md */,
+				BAE1FCCB2426A8A4009EB73D /* README.md */,
 				BAE1FCCD2426A8DF009EB73D /* index.html */,
 				BAE1FCCC2426A8B1009EB73D /* images */,
 			);
