@@ -8,6 +8,8 @@
 
 /* Begin PBXFileReference section */
 		BA080B9F242FEDA90093D027 /* CNAME */ = {isa = PBXFileReference; lastKnownFileType = text; path = CNAME; sourceTree = "<group>"; };
+		BA080BA1243038860093D027 /* tim_maggie_large.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tim_maggie_large.jpeg; sourceTree = "<group>"; };
+		BA080BA2243038860093D027 /* tim_maggie_small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tim_maggie_small.png; sourceTree = "<group>"; };
 		BAE1FCCB2426A8A4009EB73D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BAE1FCCD2426A8DF009EB73D /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -34,6 +36,8 @@
 		BAE1FCCC2426A8B1009EB73D /* images */ = {
 			isa = PBXGroup;
 			children = (
+				BA080BA1243038860093D027 /* tim_maggie_large.jpeg */,
+				BA080BA2243038860093D027 /* tim_maggie_small.png */,
 			);
 			path = images;
 			sourceTree = "<group>";
