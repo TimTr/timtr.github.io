@@ -1,13 +1,13 @@
-/*****************************************************************************/
-/*
-/* This sheet was copied off the original Jekyll template, then modified
-/*
-/*****************************************************************************/
+/** timtr.css
+    Last edited by Tim Triemstra -- this originated off a Jekyll default template
+ */
+ 
+/** Use a free Google font */
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
 
 /* Global Reset */
-
 * {
-  margin: 0;
+  margin: 10;
   padding: 0;
 }
 
@@ -17,7 +17,9 @@ html, body {
 
 body {
     background-color: white;
-    font: 18px Helvetica Neue, helvetica, arial, clean, sans-serif;
+    font-family: 'Open Sans', sans-serif;
+
+/*  font: 18px Helvetica Neue, helvetica, arial, clean, sans-serif; */
 /*  text-align: center;     remove the centering across all the text. */
 }
 
